@@ -1,0 +1,17 @@
+1) Criar cadastro no MailChimp + Hubspot.
+
+2) Criar ambiente virtual para o projeto:
+    Criar um ambiente virtual
+        python -m venv ./ambiente_virtual
+
+    Habilitar ambiente virtual:
+        ambiente_virtual/Scripts/Activate
+
+    Desabilitar Ambiente Virtual:
+        deactivate
+
+2) Configurar MailChimp:
+    -
+
+3) Configurar Hubspot:
+    -Instalar via pip: 
