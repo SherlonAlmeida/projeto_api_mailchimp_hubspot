@@ -14,8 +14,14 @@
     -Documentação: https://mailchimp.com/developer/marketing/api/root/
     -Github: https://github.com/mailchimp/mailchimp-marketing-python
     -Criar API Key: https://us21.admin.mailchimp.com/account/api/
+    -Tutorial: https://mailchimp.com/developer/marketing/guides/quick-start/
     -Instalar via pip:
         pip install mailchimp-marketing
+    -Dados do MailChimp, como interpretar:
+        "api_key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx-usXX",
+        "server": "usXX"
+    -Para criar assinantes da lista, estamos usando a própria interface do MailChimp.
+    -Posteriormente, acessamos os dados cadastrados diretamente pela API via Python.
 
 4) Configurar Hubspot:
     -Documentação: https://developers.hubspot.com/docs/api/overview
