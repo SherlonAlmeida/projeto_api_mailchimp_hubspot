@@ -1,6 +1,9 @@
 from mailchimp_marketing import Client
 from mailchimp_marketing.api_client import ApiClientError
 
+#Obtém as credenciais do MailChimp (Para não ser publicada na Web e ser Revogada)
+from api_settings import *
+
 #Integra com o arquivo do Hubspot
 import config_hubspot
 
