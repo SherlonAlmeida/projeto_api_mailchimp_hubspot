@@ -17,8 +17,8 @@ def show_list_members(data):
 try:
   client = Client()
   client.set_config({
-    "api_key": "1b8fa1c47faf718dc31ae1ad220f2f25-us21",
-    "server": "us21"
+    "api_key": api_key,
+    "server": server
   })
 
   #Obtem todas as listas (Identificar o id da lista desejada)
