@@ -10,8 +10,14 @@
     Desabilitar Ambiente Virtual:
         deactivate
 
-2) Configurar MailChimp:
-    -
+3) Configurar MailChimp:
+    -Documentação: https://mailchimp.com/developer/marketing/api/root/
+    -Github: https://github.com/mailchimp/mailchimp-marketing-python
+    -Criar API Key: https://us21.admin.mailchimp.com/account/api/
+    -Instalar via pip:
+        pip install mailchimp-marketing
 
-3) Configurar Hubspot:
-    -Instalar via pip: 
+4) Configurar Hubspot:
+    -Documentação: https://developers.hubspot.com/docs/api/overview
+    -Instalar via pip:
+        pip install --upgrade hubspot-api-client
